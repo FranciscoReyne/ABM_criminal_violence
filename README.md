@@ -1,7 +1,7 @@
 # ABM Criminal Violence  
 Agent-Based Model for environments where multiple criminal actors compete for territory.
 
-**Q: Where multiple criminal actors compete for territory, what do they depend on, and how do violence levels behave?**
+**Q: When multiple criminal actors compete for territory, what do they depend on, and how do violence levels behave?**
 
 ## ABM  
 
